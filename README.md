@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SailorSnoW
-- 👀 I’m interested in Blockchain ecosystem
-- 🌱 I’m currently learning web3 developement
+- 👀 I’m interested in Rust developement/Blockchain ecosystem
+- 🌱 I’m currently learning Rust developement and working in a web3 project
 - 📫 Discord: SnoW#3112
 
 <!---
