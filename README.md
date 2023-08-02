@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SailorSnoW
 - 👀 I’m interested in Rust developement/Blockchain ecosystem
 - 🌱 I’m currently learning Rust developement and working in a web3 project
-- 📫 Discord: SnoW#3112
+- 📫 Discord: snxwin
 
 <!---
 SailorSnoW/SailorSnoW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
