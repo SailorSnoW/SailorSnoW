@@ -2,7 +2,7 @@
 :house_with_garden: I live in France<br>
 :computer: I am currently working as a CTO/Developer for @Allfeat.<br>
 
-### Skill-set
+### Skill-set (WIP)
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
