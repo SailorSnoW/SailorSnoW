@@ -100,7 +100,7 @@ If something can run on NixOS, it will.
   <a href="https://snxw.moe">
     <img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=6366f1" />
   </a>
-  <a href="https://allfeat.com">
+  <a href="https://allfeat.org">
     <img src="https://img.shields.io/badge/Allfeat-ec4899?style=for-the-badge&logo=musicbrainz&logoColor=ffffff&labelColor=6366f1" />
   </a>
   <a href="https://bsky.app/profile/snxw.moe">
